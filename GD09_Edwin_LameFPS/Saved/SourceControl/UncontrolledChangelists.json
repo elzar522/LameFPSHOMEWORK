@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Fire_Rifle_Hip_Montage.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip8.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Center.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Up.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Down.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Right.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Left.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Right_Centre.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Left_Centre.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Right_Up.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Right_Down.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Left_Up.uasset",
+				"D:/Work/GameDesign/Unreal/GD09_Edwin_LameFPS/Content/AnimStarterPack/Aim_Space_Hip/Aim_Space_Hip/Aim_Space_Hip_Left_Down.uasset"
+			]
+		}
+	]
+}
